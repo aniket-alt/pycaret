@@ -1,0 +1,13 @@
+# Ignore the virtual environment
+.venv/
+
+# Ignore Python's cache
+__pycache__/
+*.pyc
+
+# Ignore large data files (professors will thank you)
+creditcard.csv
+Online Retail.csv
+
+# Ignore system files (optional but good practice)
+.DS_Store
